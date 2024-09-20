@@ -3,47 +3,48 @@ Bifrost is a comprehensive personal management application designed to bridge th
 
 # Key Features
 ## Financial Management
-Robust accounting and budgeting tools
-Detailed financial reporting
-Accurate forecasting capabilities
+* Robust accounting and budgeting tools
+* Detailed financial reporting
+* Accurate forecasting capabilities
 
 ## Workflow Management
-Intuitive workflow creation and management
-Task automation and streamlining
+* Intuitive workflow creation and management
+* Task automation and streamlining
 
 ## Knowledge Management
-Zettelkasten method integration
-Markdown-based note-taking system
-Support for various programming languages and file types
-Advanced tagging and categorization
+* Zettelkasten method integration
+* Markdown-based note-taking system
+* Support for various programming languages and file types
+* Advanced tagging and categorization
 
 ## Fitness Tracking
-Comprehensive gym diary
-Goal setting and tracking
-Customizable workout schedules
+* Comprehensive gym diary
+* Goal setting and tracking
+* Customizable workout schedules
 
 ## Habit Formation
-Habit creator with customizable parameters
-Progress charts for visual motivation
+* Habit creator with customizable parameters
+* Progress charts for visual motivation
 
 ## Project Management
-Calendar integration for seamless scheduling
-Milestone tracking
-Gantt chart generation
-Customizable Kanban boards
+* Calendar integration for seamless scheduling
+* Milestone tracking
+* Gantt chart generation
+* Customizable Kanban boards
 
 ## Goal Setting
-SMART goal framework implementation
-Real-time progress monitoring
+* SMART goal framework implementation
+* Real-time progress monitoring
 
 ## Personal Growth
-Curated personal development resources
-Collaboration tools for team projects
- ## User Experience
-Customizable dashboards for at-a-glance information
-Extensive app integrations
-Voice command functionality
-AI-powered assistance for enhanced productivity
+* Curated personal development resources
+* Collaboration tools for team projects
+
+## User Experience
+* Customizable dashboards for at-a-glance information
+* Extensive app integrations
+* Voice command functionality
+* AI-powered assistance for enhanced productivity
 
 ## License
 Bifrost is licensed under the GPL v3 License. See the LICENSE file for details.
